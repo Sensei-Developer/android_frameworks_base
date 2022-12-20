@@ -611,6 +611,7 @@
     <item name="keyguard_clock_line_spacing_scale" type="dimen" format="float">.7</item>
     <!-- Burmese line spacing multiplier between hours and minutes of the keyguard clock -->
     <item name="keyguard_clock_line_spacing_scale_burmese" type="dimen" format="float">1</item>
+    <item name="keyguard_clock_line_spacing_scale_broken" type="dimen" format="float">.9</item>
 
     <dimen name="notification_scrim_corner_radius">32dp</dimen>
 
